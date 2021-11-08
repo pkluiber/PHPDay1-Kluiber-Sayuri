@@ -1,0 +1,9 @@
+/* h1 {
+    text-align: center;
+} */
+
+h1 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    margin: 0 auto;
+}
